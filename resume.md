@@ -55,7 +55,7 @@ Presentation Title, Conference, <a href="https://MyWebsite.tld/presentation1">Li
 `Current`
 __Graduate Research and Teaching Assistant__, Department of Biological and Agricultural Engineering, North Carolina State University 
 
-- Task
+- Some farming involved
 - Task
 
 `2018-2019`
